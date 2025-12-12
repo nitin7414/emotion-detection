@@ -1,0 +1,11 @@
+{
+    "rasa_data":{
+        "common": [
+            {
+                "text":"Hello",
+                "intent": "greeting",
+                "entities": []
+            }
+        ]
+    }
+}
